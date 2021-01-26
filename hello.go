@@ -10,3 +10,7 @@ func Hello() string {
 func Proverb() string {
     return quote.Concurrency()
 }
+
+func Bar() string {
+    return "Baz!"
+}

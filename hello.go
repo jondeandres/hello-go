@@ -12,5 +12,5 @@ func Proverb() string {
 }
 
 func Bar() string {
-    return "Baz!"
+    return "Bar!"
 }
